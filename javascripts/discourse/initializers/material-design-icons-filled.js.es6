@@ -27,7 +27,7 @@ function initIcons(api) {
   api.replaceIcon("at", "mdf-alternate_email");
   api.replaceIcon("backward", "mdf-fast_rewind");
   api.replaceIcon("ban", "mdf-block");
-  api.replaceIcon("bars", "mdf-menu");
+  api.replaceIcon("bars", "mdf-menu_open");
   api.replaceIcon("bed", "mdf-bed");
   api.replaceIcon("bell-slash", "mdf-notifications_off");
   api.replaceIcon("bell", "mdf-notifications");
