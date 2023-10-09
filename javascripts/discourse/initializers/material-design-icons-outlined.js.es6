@@ -27,7 +27,7 @@ function initIcons(api) {
   api.replaceIcon("at", "mdo-alternate_email");
   api.replaceIcon("backward", "mdo-fast_rewind");
   api.replaceIcon("ban", "mdo-block");
-  api.replaceIcon("bars", "\e9bd");
+  api.replaceIcon("bars", "\ueb58");
   api.replaceIcon("bed", "mdo-bed");
   api.replaceIcon("bell-slash", "mdo-notifications_off");
   api.replaceIcon("bell", "mdo-notifications");
