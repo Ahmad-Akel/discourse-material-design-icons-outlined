@@ -216,7 +216,7 @@ function initIcons(api) {
   api.replaceIcon("reply", "mdf-reply");
   api.replaceIcon("rocket", "mdf-rocket_launch");
   api.replaceIcon("save", "mdf-save");
-  api.replaceIcon("search", "mdf-search");
+  api.replaceIcon("search", "mdf-manage_search");
   api.replaceIcon("share-alt", "mdf-share");
   api.replaceIcon("share", "mdf-share");
   api.replaceIcon("shield-alt", "mdf-security");
